@@ -27,3 +27,7 @@ Full report available in the PDF file.
 - IOC identification & correlation
 - MITRE ATT&CK mapping
 - Security reporting
+
+## 📄 Full Report
+
+👉 [Download Full Case Study (PDF)](./soc-incident-response-case-study.pdf)
