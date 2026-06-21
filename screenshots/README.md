@@ -1,9 +1,19 @@
-# Screenshots
+# Investigation Screenshots
 
-This folder contains evidence collected during the investigation including:
+This folder contains screenshots collected during the investigation.
 
-- Failed logon detection
+## Windows Evidence
+
+- Failed logon activity
 - Encoded PowerShell execution
-- Invoke-WebRequest activity
-- Linux persistence artifacts
-- Privilege escalation evidence
+- Invoke-WebRequest detection
+
+## Linux Evidence
+
+- Malicious binary execution
+- Unauthorized user creation
+- Privilege escalation
+- Cron persistence
+- Systemd persistence
+
+These screenshots were used to validate findings and support the investigation conclusions.
