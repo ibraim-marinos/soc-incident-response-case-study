@@ -18,9 +18,6 @@ This project demonstrates a SOC Analyst investigation workflow based on simulate
 - TryHackMe Labs
 - LetsDefend
 
-## 📄 Case Study
-Full report available in the PDF file.
-
 ## 🎯 Skills Demonstrated
 - Incident response & alert triage
 - Log analysis & threat detection
@@ -28,7 +25,7 @@ Full report available in the PDF file.
 - MITRE ATT&CK mapping
 - Security reporting
 
-📄 Case Study
+## 📄 Case Study
 
 This project documents a complete SOC investigation workflow, including:
 
