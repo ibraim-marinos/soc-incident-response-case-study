@@ -1,6 +1,6 @@
 # SOC Incident Response Case Study
 
-This project demonstrates a hands-on incident response investigation based on simulated lab environments (TryHackMe and LetsDefend).
+This project demonstrates a SOC Analyst investigation workflow based on simulated Windows and Linux incidents using Splunk, TryHackMe, and LetsDefend labs.
 
 ## 🔍 Overview
 - Investigated simulated security incidents (phishing, brute force, malware activity)
@@ -27,6 +27,20 @@ Full report available in the PDF file.
 - IOC identification & correlation
 - MITRE ATT&CK mapping
 - Security reporting
+
+📄 Case Study
+
+This project documents a complete SOC investigation workflow, including:
+
+- Initial observations
+- Host analysis
+- SIEM validation
+- Timeline reconstruction
+- IOC identification
+- MITRE ATT&CK mapping
+- Response recommendations
+
+The full case study report is available below.
 
 ## 📄 Full Report
 
