@@ -2,13 +2,24 @@
 
 ## Windows Evidence
 
-- Failed logon attempts (Event ID 4625)
+- Failed authentication attempts (Event ID 4625)
 - Encoded PowerShell execution
 - Invoke-WebRequest activity
+- Remote access software artifacts
+- WDigest registry modification
 
 ## Linux Evidence
 
 - Malicious binary execution
-- Unauthorized user account
+- Unauthorized user account creation
+- Sudo privilege escalation
 - Cron persistence
-- Systemd persistence
+- Systemd persistence service
+
+## Evidence Sources
+
+- Splunk SIEM
+- Windows Event Logs
+- Sysmon Telemetry
+- Linux Host Artifacts
+- TryHackMe Lab Environment
